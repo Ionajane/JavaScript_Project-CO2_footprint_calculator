@@ -10,6 +10,6 @@ To submit values for various aspects of their lifestyle (e.g. diet, commute, rec
 To update the values to see the effect on their CO2 footprint.
 <br>
 View the CO2 footprint result in a visually interesting ways.
-
-Resources used:
+<br>
+<h3>Resources used:</h3>
 https://www.highcharts.com/ HighCharts is an open-source library for rendering responsive charts with good documentation.
